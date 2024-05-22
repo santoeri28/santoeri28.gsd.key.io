@@ -1,0 +1,9 @@
+import plotly.express as px
+import numpy as np
+import pandas as pd
+df = pd.read_excel('file_3D.xlsx')
+df.head()
+fig = px.scatter_3d(df, x='Ri - Di', y='Ri + Di', z='Cosine Sim', size='Ri + Di', color='W_cluster',
+                    hover_data=['Description'])
+fig.update_layout(scene_zaxis_type="log")
+fig.show()
