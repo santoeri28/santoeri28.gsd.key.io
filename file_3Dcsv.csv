@@ -1,0 +1,26 @@
+﻿Cluster;Description;Ri + Di;Ri - Di;Cosine Sim;W_cluster
+COMMUN;Communication;5,42;0,43;1;1
+INTERF;Component interface;4,69;0,16;0,333691388;2
+SCIENT;Scientific attitude;3,91;0,25;0,33262378;2
+METRIC;Quality metrics;3,69;0,04;0,213170767;2
+GREENSO;Green software development;3,69;0,01;0,21237576;2
+TEAMRE;Team relationship;4,14;0,13;0,692396283;3
+TEORAT;Team organization and attitude;3,53;0,11;0,583787799;3
+TRUST;Trust;4,05;0,22;0,572097838;3
+KNOWTR;Knowledge transfer;3,79;0,09;0,513599873;3
+AGITRA;Agile and training;4,11;0,79;0,507955492;3
+CONFMA;Conflict management;4,74;-0,14;0,63067621;4
+TEAMSK;Team skills;4,34;-0,04;0,588253617;4
+SOCGEO;Social and Geological;4,58;-0,15;0,572484314;4
+CHREMA;Change requirement management;4,26;-0,22;0,538701475;4
+STAKEH;Stakeholders;4,27;-0,07;0,524567127;4
+ORGANI;Organization;4,01;-0,13;0,453237265;4
+ARCHPR;Architectural practices;4,87;-0,32;0,393576533;4
+TASKRE;Task responsibilities;3,36;-0,38;0,551834047;5
+INTEGR;Component integration;3,36;-0,12;0,522129357;5
+PROJRE;Project requirements;3,16;-0,32;0,460134625;5
+GENDSE;Gender segregation (Women);3,22;-0,13;0,406537503;5
+DATAEN;Data environment;3,13;-0,4;0,403714597;5
+SOFTCH;Software changes;2,88;-0,27;0,33149904;5
+PERSDI;Personality dimensions;2,72;0,42;0,449290693;6
+PROCMA;Process Management;2,3;0,03;0,43324545;6
